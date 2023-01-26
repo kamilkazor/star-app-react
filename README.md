@@ -11,7 +11,7 @@ All the animations between routes and list elements originally made with the vue
 were recreated with the help of framer-motion library.
 Finally, the app was tested with the help of vitest and react testing-library. 
 
-You can check out a live version of the project [here](kamilkazor.github.io/star-app-react/).
+You can check out a live version of the project [here](https://kamilkazor.github.io/star-app-react/).
 
 
 ## contribution:
