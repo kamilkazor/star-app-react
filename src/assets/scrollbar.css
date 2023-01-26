@@ -1,0 +1,19 @@
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #3d5370 black;
+}
+html::-webkit-scrollbar {
+  width: 8px;
+}
+html::-webkit-scrollbar-thumb {
+  background-color: hsl(214, 29%, 34%);
+}
+html::-webkit-scrollbar-thumb:hover {
+  background-color: hsl(214, 29%, 44%);
+}
+html::-webkit-scrollbar-thumb:active {
+  background-color: hsl(214, 29%, 64%);
+}
+html::-webkit-scrollbar-track {
+  background-color: transparent;
+}

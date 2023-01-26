@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .card {
+    @apply bg-blue-500/10 border border-blue-300/20 text-blue-300/50;
+  }
+  .card-shape {
+    @apply rounded-lg p-5;
+  }
+  .card-text-important {
+    @apply text-blue-200;
+  }
+}

@@ -1,0 +1,10 @@
+body {
+  width: 100vw;
+  overflow-x: hidden;
+  background-color: black;
+  background-image: url("./background.jpg");
+  background-size: max(100vw, 100vh);
+  background-position: 0 50%;
+  background-attachment: fixed;
+  -webkit-tap-highlight-color: transparent;
+}
